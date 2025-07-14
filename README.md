@@ -11,4 +11,4 @@ It’s hosted for free on **AWS S3 static website hosting**.
 
 ## 📫 Connect with Me
 - [GitHub](https://github.com/RandilBandara)
-- [LinkedIn](https://linkedin.com/in/RandilBandara)
+- [LinkedIn]https://www.linkedin.com/in/randil-bandara/
